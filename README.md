@@ -1,4 +1,4 @@
-# AI for the Arts and Humanities Portfolio
+# AI for the Arts and Humanities (A) Portfolio
 ## Student No. 2879500
 The repository is used to store components of a larger project together in a sort of 'folder'. 
 By the end of this course I want to be able to:
